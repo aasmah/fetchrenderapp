@@ -8,7 +8,7 @@ this is the Challenge Mit module 15.
 
 
 ##improvements needed.
-#  HMS and HFSA certification sources would be added when improved.
+#  HMS and HFSAA certification would be added when improved.
 need to get locations on the map to show on map chicaho area food locations.
 also need to add add navigation to the start location to searched locattion.
 
