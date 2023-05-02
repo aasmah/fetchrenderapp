@@ -2,6 +2,10 @@
 this is the Challenge MIT module 15.
 the  app is developed with react library in the code sandbox.
 
+install node 
+<a href="http://localhost:3000/">localHost:3000</a>
+
+
 # title: Zabiha halal served. 
 
 free png icon zabiha halal used.
