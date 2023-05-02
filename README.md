@@ -1,5 +1,5 @@
 # fetchrenderapp
-# Zabihal halal served.
+# Zabiha halal served.
 
 freen png zabihahhalal icon used.
 
